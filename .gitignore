@@ -14,9 +14,12 @@ CollectionViews2/bin/*
 CollectionViews2/gen/*
 examples/PhotoGrid/gen/*
 examples/PhotoGrid/bin/*
+examples/Artbook/gen/*
 
 # IDEA files
 .idea
 *.iml
+*.ipr
+*.iws
 out
 gen
